@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Properties</string>
+    <string name="welcome_message">Hello, \nPress the button to display the\nAndroid properties</string>
+    <string name="display_button">Display</string>
+</resources>
